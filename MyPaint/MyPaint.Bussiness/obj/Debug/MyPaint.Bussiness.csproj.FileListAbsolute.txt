@@ -1,0 +1,18 @@
+C:\Users\giurg\OneDrive\Desktop\MyPaint\MyPaint.Bussiness\bin\Debug\MyPaint.Bussiness.dll
+C:\Users\giurg\OneDrive\Desktop\MyPaint\MyPaint.Bussiness\bin\Debug\MyPaint.Bussiness.pdb
+C:\Users\giurg\OneDrive\Desktop\MyPaint\MyPaint.Bussiness\obj\Debug\MyPaint.Bussiness.csproj.AssemblyReference.cache
+C:\Users\giurg\OneDrive\Desktop\MyPaint\MyPaint.Bussiness\obj\Debug\MyPaint.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\giurg\OneDrive\Desktop\MyPaint\MyPaint.Bussiness\obj\Debug\MyPaint.Bussiness.dll
+C:\Users\giurg\OneDrive\Desktop\MyPaint\MyPaint.Bussiness\obj\Debug\MyPaint.Bussiness.pdb
+C:\Users\giurg\OneDrive\Desktop\MyPaint\MyPaint.Bussiness\bin\Debug\Newtonsoft.Json.dll
+C:\Users\giurg\OneDrive\Desktop\MyPaint\MyPaint.Bussiness\bin\Debug\Newtonsoft.Json.xml
+C:\Users\giurg\OneDrive\Desktop\MyPaint\MyPaint.Bussiness\obj\Debug\MyPaint.Bussiness.csproj.CopyComplete
+C:\Users\giurg\OneDrive\Desktop\Winforms Projects\MyPaint\MyPaint.Bussiness\bin\Debug\MyPaint.Bussiness.dll
+C:\Users\giurg\OneDrive\Desktop\Winforms Projects\MyPaint\MyPaint.Bussiness\bin\Debug\MyPaint.Bussiness.pdb
+C:\Users\giurg\OneDrive\Desktop\Winforms Projects\MyPaint\MyPaint.Bussiness\bin\Debug\Newtonsoft.Json.dll
+C:\Users\giurg\OneDrive\Desktop\Winforms Projects\MyPaint\MyPaint.Bussiness\bin\Debug\Newtonsoft.Json.xml
+C:\Users\giurg\OneDrive\Desktop\Winforms Projects\MyPaint\MyPaint.Bussiness\obj\Debug\MyPaint.Bussiness.csproj.AssemblyReference.cache
+C:\Users\giurg\OneDrive\Desktop\Winforms Projects\MyPaint\MyPaint.Bussiness\obj\Debug\MyPaint.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\giurg\OneDrive\Desktop\Winforms Projects\MyPaint\MyPaint.Bussiness\obj\Debug\MyPaint.Bussiness.csproj.CopyComplete
+C:\Users\giurg\OneDrive\Desktop\Winforms Projects\MyPaint\MyPaint.Bussiness\obj\Debug\MyPaint.Bussiness.dll
+C:\Users\giurg\OneDrive\Desktop\Winforms Projects\MyPaint\MyPaint.Bussiness\obj\Debug\MyPaint.Bussiness.pdb

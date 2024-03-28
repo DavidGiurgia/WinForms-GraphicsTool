@@ -1,0 +1,30 @@
+C:\Users\giurg\OneDrive\Desktop\MyPaint\MyPaint.Editor\bin\Debug\MyPaint.Editor.exe.config
+C:\Users\giurg\OneDrive\Desktop\MyPaint\MyPaint.Editor\bin\Debug\MyPaint.Editor.exe
+C:\Users\giurg\OneDrive\Desktop\MyPaint\MyPaint.Editor\bin\Debug\MyPaint.Editor.pdb
+C:\Users\giurg\OneDrive\Desktop\MyPaint\MyPaint.Editor\bin\Debug\MyPaint.Bussiness.dll
+C:\Users\giurg\OneDrive\Desktop\MyPaint\MyPaint.Editor\bin\Debug\MyPaint.Bussiness.pdb
+C:\Users\giurg\OneDrive\Desktop\MyPaint\MyPaint.Editor\obj\Debug\MyPaint.Editor.csproj.AssemblyReference.cache
+C:\Users\giurg\OneDrive\Desktop\MyPaint\MyPaint.Editor\obj\Debug\MyPaint.Editor.MainForm.resources
+C:\Users\giurg\OneDrive\Desktop\MyPaint\MyPaint.Editor\obj\Debug\MyPaint.Editor.Properties.Resources.resources
+C:\Users\giurg\OneDrive\Desktop\MyPaint\MyPaint.Editor\obj\Debug\MyPaint.Editor.csproj.GenerateResource.cache
+C:\Users\giurg\OneDrive\Desktop\MyPaint\MyPaint.Editor\obj\Debug\MyPaint.Editor.csproj.CoreCompileInputs.cache
+C:\Users\giurg\OneDrive\Desktop\MyPaint\MyPaint.Editor\obj\Debug\MyPaint.Editor.csproj.CopyComplete
+C:\Users\giurg\OneDrive\Desktop\MyPaint\MyPaint.Editor\obj\Debug\MyPaint.Editor.exe
+C:\Users\giurg\OneDrive\Desktop\MyPaint\MyPaint.Editor\obj\Debug\MyPaint.Editor.pdb
+C:\Users\giurg\OneDrive\Desktop\MyPaint\MyPaint.Editor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\giurg\OneDrive\Desktop\MyPaint\MyPaint.Editor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\giurg\OneDrive\Desktop\Winforms Projects\MyPaint\MyPaint.Editor\bin\Debug\MyPaint.Editor.exe.config
+C:\Users\giurg\OneDrive\Desktop\Winforms Projects\MyPaint\MyPaint.Editor\bin\Debug\MyPaint.Editor.exe
+C:\Users\giurg\OneDrive\Desktop\Winforms Projects\MyPaint\MyPaint.Editor\bin\Debug\MyPaint.Editor.pdb
+C:\Users\giurg\OneDrive\Desktop\Winforms Projects\MyPaint\MyPaint.Editor\bin\Debug\MyPaint.Bussiness.dll
+C:\Users\giurg\OneDrive\Desktop\Winforms Projects\MyPaint\MyPaint.Editor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\giurg\OneDrive\Desktop\Winforms Projects\MyPaint\MyPaint.Editor\bin\Debug\MyPaint.Bussiness.pdb
+C:\Users\giurg\OneDrive\Desktop\Winforms Projects\MyPaint\MyPaint.Editor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\giurg\OneDrive\Desktop\Winforms Projects\MyPaint\MyPaint.Editor\obj\Debug\MyPaint.Editor.csproj.AssemblyReference.cache
+C:\Users\giurg\OneDrive\Desktop\Winforms Projects\MyPaint\MyPaint.Editor\obj\Debug\MyPaint.Editor.MainForm.resources
+C:\Users\giurg\OneDrive\Desktop\Winforms Projects\MyPaint\MyPaint.Editor\obj\Debug\MyPaint.Editor.Properties.Resources.resources
+C:\Users\giurg\OneDrive\Desktop\Winforms Projects\MyPaint\MyPaint.Editor\obj\Debug\MyPaint.Editor.csproj.GenerateResource.cache
+C:\Users\giurg\OneDrive\Desktop\Winforms Projects\MyPaint\MyPaint.Editor\obj\Debug\MyPaint.Editor.csproj.CoreCompileInputs.cache
+C:\Users\giurg\OneDrive\Desktop\Winforms Projects\MyPaint\MyPaint.Editor\obj\Debug\MyPaint.Editor.csproj.CopyComplete
+C:\Users\giurg\OneDrive\Desktop\Winforms Projects\MyPaint\MyPaint.Editor\obj\Debug\MyPaint.Editor.exe
+C:\Users\giurg\OneDrive\Desktop\Winforms Projects\MyPaint\MyPaint.Editor\obj\Debug\MyPaint.Editor.pdb
