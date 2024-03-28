@@ -13,5 +13,8 @@ This project is a .NET application dedicated to drawing and manipulating basic g
    - **Business Logic (MyPaint.Bussiness):** Here, the hierarchy of objects is defined, including the `Shape` class, `GraphicTool`, and other helper classes.
    - **User Interface (MyPaint.Editor):** This part contains the user interface, providing functionalities for drawing and manipulating graphic shapes.
 - It offers the possibility to save and load drawings as bitmap images and in JSON format.
+![Example Image](Images/Screenshot%202024-03-28%20154302.png)
+![Example Image](Images/Screenshot%202024-03-28%20154507.png)
+![Example Image](Images/Screenshot%202024-03-28%20160252.png)
 
 This project serves as an excellent example of object-oriented programming approach in a practical context, providing a solid foundation for the development and further expansion of graphic shape manipulation applications.
